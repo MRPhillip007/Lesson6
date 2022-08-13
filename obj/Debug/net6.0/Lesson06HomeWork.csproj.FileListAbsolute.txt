@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\bin\Debug\net6.0\Lesson06HomeWork.exe
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\bin\Debug\net6.0\Lesson06HomeWork.deps.json
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\bin\Debug\net6.0\Lesson06HomeWork.runtimeconfig.json
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\bin\Debug\net6.0\Lesson06HomeWork.dll
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\bin\Debug\net6.0\Lesson06HomeWork.pdb
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.AssemblyInfo.cs
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.dll
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\refint\Lesson06HomeWork.dll
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.pdb
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\Lesson06HomeWork.genruntimeconfig.cache
+C:\BettrootCourses\lesson06\Homework\Lesson06HomeWork\obj\Debug\net6.0\ref\Lesson06HomeWork.dll
