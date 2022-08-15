@@ -164,4 +164,4 @@ namespace Lesson6Homework
     }
 
 }
-
+//checked
